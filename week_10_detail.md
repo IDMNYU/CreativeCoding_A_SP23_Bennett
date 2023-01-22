@@ -28,11 +28,10 @@
 	</td>
 <!-- homework -->
 <tr>
-  <td valign="top">read <br>
-  	Learning Processing:Chapter 17 - 18 </a></td>
+  <td valign="top">read <br> <td>
   	<!-- day Tues -->
   	<td valign="top"> 
-       </td>
+  		Learning Processing:Chapter 17 - 18 </a>
 	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
