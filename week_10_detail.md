@@ -44,11 +44,13 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<del><a href = "Sketch_4.md"> Work on Sketch 4 </a> </del><br>
+ 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
+  <a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>Sketch your ideas for your final<br>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-  		<del><a href = "Sketch_4.md"> Work on Sketch 4</a> </del><br>
+  		<a href = "Sketch_4.md"> Work on Sketch 4</a> <br>
+  		<a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>Sketch your ideas for your final<br>
   	</td>	
 </tr>
 </table>

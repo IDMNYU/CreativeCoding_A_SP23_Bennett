@@ -49,7 +49,7 @@
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-  		<a href = "MidTermProject.md"> Revise Project 1/Midterm </a>
+  		<a href = "MidTermProject.md"> Revise Project 1/Midterm </a><br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
   	</td>	
 </tr>

@@ -105,11 +105,11 @@
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"> April 5<br>Text & Strings<br>
+	<td valign="top"><a href="week_10_detail.md"> April 5</a><br>Text & Strings<br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>
-	<td valign="top">April 10<br> Text & String Manipulations	 <br>
+	<td valign="top"><a href="week_10_detail.md">April 10</a><br> Text & String Manipulations	 <br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>	
