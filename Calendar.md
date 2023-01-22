@@ -71,7 +71,7 @@
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail.md">March 8</a>Inclass challenges <br><a href = "Project_1.md"> Work on Project 1 </a> <br>
+	<td valign="top"><a href="week_7_detail.md">March 8 </a><br>In class challenges <br><a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
     <td> </td>
 </tr>
@@ -83,33 +83,33 @@
 <tr>
 	<td> 7 (cont)</td>
 	<td></td>
-	<td valign = "top"> <a href="week_7_detail.md">March 20</a><br> Inclass challenges <br>
+	<td valign = "top"> <a href="week_7_detail.md">March 20</a><br> In class challenges <br>
 	<a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
 </tr>
 <td>8</td>
 	<td valign="top"><a href="week_8_detail.md">March 22</a><br> 
-	<strong>**MidTerm** <br>Project 1 Feedback/Presentations <br></strong>
+	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong>
 	</td>
 	<td valign="top"><a href="week_8_detail.md">March 27</a><br>
-	<strong>**MidTerm** <br>Project 1 Feedback/Presentations <br></strong> </td>
+	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong> </td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 29</a><br>
+	<td valign="top"><a href="week_9_detail.md">March 29</a><br>Images + Pixels
 	</td>
-	<td valign="top"><a href="week_9_detail.md">April 3</a><br>Text & Strings	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">April 3</a><br>Images + Data	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
 		Complete Refinements to Project 1 </a><br>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"> April 5<br>Images + Data<br>
+	<td valign="top"> April 5<br>Text & Strings<br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>
-	<td valign="top">April 10<br>Images <br> Intro: Text & String Manipulations	 <br>
+	<td valign="top">April 10<br> Text & String Manipulations	 <br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>	
@@ -123,22 +123,23 @@
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">April 19<br>Strings + API's<br>
+	<td valign="top">April 19<br>Sound<br>P5 Play Library<br>
     <a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
-	<td valign="top">April 24<br>Sound<br>P5 Play Library<br>
+	<td valign="top">April 24<br>Topics by request (Generative code, ML, Camera tracking, etc)<br>
 		<a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
 </tr>
 <tr>	
-	<td>13</td><td valign="top">April 26<br><strong> LAST DAY TO WITHDRAWAL <br>
+	<td>13</td><td valign="top">April 26<br>
 	Topics by request<br></strong>	
 	<a href = "Final_Project.md">Work on Final Project</a> <br>
 	</td>
 	<td valign="top">May 1<br><strong>
 		Code-swap + Bug Squashing <br>
 		Topics by Request <br></strong>
-	<a href = "Final_Project.md">Work on Final Project</a> <br></td>
+	<a href = "Final_Project.md">Work on Final Project</a> <br>
+<strong> LAST DAY TO WITHDRAWAL May 2nd<br></td>
 </tr>
 <tr>	
 	<td>14</td><td valign="top">May 3<br><strong>Final Critiques </strong><br><a href = "Final_Project.md">Work on Final Project</a> <br></td>

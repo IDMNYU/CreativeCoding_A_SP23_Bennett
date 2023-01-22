@@ -23,7 +23,7 @@
 	In-class Challenge  <br>	
 	</td>
 	<!-- day Thurs -->
-	<td valign="top" width="48%">
+	<td valign="top" width="48%"><br>
       In-class Challenge<br> 
 	</td>
 <!-- homework -->

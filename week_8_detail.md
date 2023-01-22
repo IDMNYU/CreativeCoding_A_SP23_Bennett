@@ -37,6 +37,7 @@
   	<!-- day Thurs -->
   	<td valign="top"> 
   	<li> Watch<a href = "https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2"> Learning Processing 10 Images & Pixels </a> </li> <br>
+  	<li>7.8 Objects and Images - p5.js - https://youtu.be/i2C1hrJMwz0</li></ul></li>
   	</td>
  </tr>
  <!-- do -->
