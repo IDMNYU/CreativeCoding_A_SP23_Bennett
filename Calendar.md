@@ -11,7 +11,7 @@
 	<th width="48%">Wednesday</th> 
 </tr>
 <tr>
-	<td valign="top"><a href="week_1_detail.md">1</a></td>
+	<td valign="top">1</td>
 	<td valign="top"><a href="week_1_detail.md">Jan 23</a><br>Course and Student Introductions<br>Overview of Course<br></td>
 	<td valign="top"><a href="week_1_detail.md">Jan 25</a><br>Introduction to Processing <br>Graphic basics <br></td>
 </tr>
@@ -28,13 +28,14 @@
 	<td valign="top"> 3 </td>
 	<td valign="top"><a href="week_3_detail.md">Feb 6</a><br> <strong> Sketch 1 Due 18:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br> Variable scope <br>
 	</td>
-	<td valign="top"><a href="week_3_detail.md">Feb 8</a><br>DeBugger<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
+	<td valign="top"><a href="week_3_detail.md">Feb 8</a><br>DeBugger<br>Motion<br>Random<br>Print Statements<br>In-Class challenge<br>
 	</td>
 </tr>
 <tr>
 <td>4</td>
 	<td valign="top"><a href="week_4_detail.md">Feb 13</a><br>
 	Loops <br>
+	Functions <br>
 	Functions + passing parameters<br>
 	</td>
 	<td valign="top"><a href="week_4_detail.md">Feb 15</a><br>
@@ -58,16 +59,16 @@
 </tr>
 <tr>
 	<td> 6 </td>
-	<td valign="top"><a href="week_6_detail.md">March 1</a><br>OOP:Vectors<br>
+	<td valign="top"><a href="week_6_detail.md">March 1</a><br>Arrays<br>
 	 <a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo</td>
-	<td valign="top"><a href="week_6_detail.md">March 6</a><br>Vectors <br>
+	<td valign="top"><a href="week_6_detail.md">March 6</a><br>  <br>
 	<a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail.md">March 8</a><br>Vectors + Forces + Steering<br><a href = "Project_1.md"> Work on Project 1 </a> <br>
+	<td valign="top"><a href="week_7_detail.md">March 8</a><br> <br><a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
     <td> </td>
 </tr>
@@ -145,7 +146,7 @@
 	</td>
 </tr>
 <tr><td>EXAM WEEK</td>	
-	<td valign="top">May 15<br><strong>ALL Final Submissions Due by 12:00 EST<br> Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 18:00<br>
+	<td valign="top">May 11<br><strong>ALL Final Submissions Due by 14:00 EST<br> Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 18:00<br>
 	Letter to the Next Cohort DUE by 18:00.</td> </a><td valign="top"> <br>Have a great break! Stay safe and healthy!<br></strong> 
 	</td>
 </tr>	
