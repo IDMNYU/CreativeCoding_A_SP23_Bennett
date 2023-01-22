@@ -249,15 +249,15 @@ Do the follow these steps for each assignment:
 For each project your grade will be assessed upon the following: Principles, Creativity/Thoughtfulness, Craft. Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
 
 Please note: 
-The letter grade of "C" is an average grade. Average is not bad. It means average. Most of us are average, in some way. An average level of work is being done. It does not mean perfection. It means that the work still has room to develop at it's current state. It also means that the work has noticible achievements and evidence of some acquisition of knowledge. I look at this on an individual basis as well as across the whole class. 
+The letter grade of "C" is an average grade. Average is not bad. It means average. Most of us are average, in some way. An average level of work is being done. It does not mean perfection. It means that the work still has room to develop at it's current state. It also means that the work has noticeable achievements and evidence of some acquisition of knowledge. I look at this on an individual basis as well as across the whole class. 
 
-Please read examples of each assessment point below to get an idea of my expectations. Note that a "B" is between Satisificatory and Superior.
+Please read examples of each assessment point below to get an idea of my expectations. Note that a "B" is between Satisfactory and Superior.
 
 ### Principles:
 
 • Superior - A - Your work shows superior evidence and understanding of programming concepts discussed in readings, lectures, and exercises, as you bend them to your will.
 
-• Satisifactory - C - Your work shows evidence of concepts and is still developing an understanding of course material. You understand some aspects, but aren’t utilizing them fully. Usage is cursory. Keep pushing your work and review the material to revisit how you can integrate it to your work.
+• Satisfactory  - C - Your work shows evidence of concepts and is still developing an understanding of course material. You understand some aspects, but aren’t utilizing them fully. Usage is cursory. Keep pushing your work and review the material to revisit how you can integrate it to your work.
 
 • Unexceptable - D/F - Your work shows some evidence of concepts discussed, but lacks key understanding, confidence, robustness and authority. Aspects are lacking. Reviewing course material is required. Ask questions in class. Manage your time better.
 
@@ -266,7 +266,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 • Superior - A - Your work demonstrates your personality and a great depth of engagement with the material. It’s extremely evident that you are thinking, exploring, playing and taking risks. You are creating wonderful experiences. Your work is memorable and noteworthy
 
-• Satisifactory - C - You are executing your ideas, but more time is needed to consider more deeply about what is conceptually and physically happening. They are barely getting off the ground. Or have large bits that are broken. Do more research and exploring. Play.
+• Satisfactory  - C - You are executing your ideas, but more time is needed to consider more deeply about what is conceptually and physically happening. They are barely getting off the ground. Or have large bits that are broken. Do more research and exploring. Play.
 
 • Unexceptable - D/F - Your work is so straightforward that it’s flat. It’s barely coded (or badly broken). It’s copied from elsewhere and not expanded upon. Question and Iterate your work to push your it further. Read. Play. Get off the lame track and get inspired.
 
@@ -276,7 +276,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 • Superior - A - Your work shows delicate care and consideration to presentation and professionalism. You code is neat, clean, commented and structured. Your friends consider you “Type A.” Your style is evident.
 
-• Satisifactory - C - Your work shows the birth of your ideas, but further time and iteration can really push your work to excel. Your code is there, but messy. It can be simplified and made cleaner. What you put into it, is what you get out of it. Practice makes perfect!
+• Satisfactory  - C - Your work shows the birth of your ideas, but further time and iteration can really push your work to excel. Your code is there, but messy. It can be simplified and made cleaner. What you put into it, is what you get out of it. Practice makes perfect!
 
 • Unexceptable - D/F - Your work is rushed and looks like it was done on your train-ride in or the night before. Make your work something you are proud of. You are here to build your portfolio after all, aren’t you?
 
@@ -288,7 +288,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 • Superior - A - Always arrives on time; assignments turned in properly and on time; respectful of others in class and gives feedback appropriately.
 
-• Satisifactory - C - Usually arrives on time; most assignments turned in on time; listens to others.
+• Satisfactory  - C - Usually arrives on time; most assignments turned in on time; listens to others.
 
 • Unexceptable - D/F - Often tardy; turns in assignments late; fails to prepare for class; in attentive to instructor or other students
 
@@ -298,7 +298,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 • Superior - A - Always contributes appropriately to class discussion; frequently offers to demonstrate technique; shows leadership in group projects.
 
-• Satisifactory - C - Usually contributes to class discussion; has demonstrated technique; participates actively in group projects.
+• Satisfactory  - C - Usually contributes to class discussion; has demonstrated technique; participates actively in group projects.
 
 • Unexceptable - D/F - Does not participate in class discussion; no evidence of technique; fails to contribute adequately to group projects. 
 
@@ -308,7 +308,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 • Superior - A - Shows an exceptional and growing understanding of technique; builds on previous lessons; accepts critique and makes proper adjustments.
 
-• Satisifactory - C - Technique is developing; has shown some ability to build on previous lessons; generally able to accept critique.
+• Satisfactory  - C - Technique is developing; has shown some ability to build on previous lessons; generally able to accept critique.
 
 • Unexceptable - D/F - Little or no development of technique; is unable or unwilling to accept critique; unable to make adjustments.
 
