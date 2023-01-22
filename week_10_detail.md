@@ -28,8 +28,9 @@
 	</td>
 <!-- homework -->
 <tr>
-  <td valign="top">read <br> 
+  <td valign="top">read <br> </td>
   	<!-- day Tues -->
+  	<td valign="top" width="48%">
   		Learning Processing:Chapter 17 - 18 </a>
 	</td>
   	<!-- day Thurs -->
