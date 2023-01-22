@@ -59,7 +59,10 @@
 </tr>
 <tr>
 	<td> 6 </td>
-	<td valign="top"><a href="week_6_detail.md">March 1</a><br>Arrays<br>
+	<td valign="top"><a href="week_6_detail.md">March 1</a><br>Arrays
+		OOP <br>
+		Methods <br>
+		Strategies for coding <br>
 	 <a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo</td>
 	<td valign="top"><a href="week_6_detail.md">March 6</a><br>  <br>
@@ -68,7 +71,7 @@
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail.md">March 8</a><br> <br><a href = "Project_1.md"> Work on Project 1 </a> <br>
+	<td valign="top"><a href="week_7_detail.md">March 8</a>Inclass challenges <br><a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
     <td> </td>
 </tr>
@@ -80,23 +83,20 @@
 <tr>
 	<td> 7 (cont)</td>
 	<td></td>
-	<td valign = "top"> <a href="week_7_detail.md">March 20</a><br> Images + Pixel Manipulations <br>
+	<td valign = "top"> <a href="week_7_detail.md">March 20</a><br> Inclass challenges <br>
 	<a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
 </tr>
 <td>8</td>
 	<td valign="top"><a href="week_8_detail.md">March 22</a><br> 
-		Images + Pixel Manipulations <br>
-		Text Intro <br>
-		<a href = "Project_1.md"> Work on Project 1 </a> <br>
-        Push your progress to your GitHub repo
+	<strong>**MidTerm** <br>Project 1 Feedback/Presentations <br></strong>
 	</td>
 	<td valign="top"><a href="week_8_detail.md">March 27</a><br>
 	<strong>**MidTerm** <br>Project 1 Feedback/Presentations <br></strong> </td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 29</a><br><strong>**MidTerm** <br>Project 1 Feedback/Presentations <br></strong>
+	<td valign="top"><a href="week_9_detail.md">March 29</a><br>
 	</td>
 	<td valign="top"><a href="week_9_detail.md">April 3</a><br>Text & Strings	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
