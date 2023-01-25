@@ -47,7 +47,7 @@
 		<ol>
 			<li>5: <a href = "https://youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_">Conditionals (playlist) - https://youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_</li></a> <br>
 			<li>6: <a href = "https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ"> Loops (playlist) https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ </a>a</li>
-		 <li>4.3 Using random() - https://youtu.be/50Rzvxvi8D0</li></a>	
+		 s<li>4.3 Using random() - https://youtu.be/50Rzvxvi8D0</li></a>	
  </td>	
  </tr>
  <!-- do -->
