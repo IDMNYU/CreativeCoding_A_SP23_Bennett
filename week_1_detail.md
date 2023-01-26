@@ -57,7 +57,7 @@
  	<td valign="top"> 
  		<li> <a href = "https://slack.com/"> download Slack </a></li>
  		<li><a href = "https://join.slack.com/t/slack-k0u1973/shared_invite/zt-1nocvl5it-cbw8x7dBprB~a5mpwSyP_A ">Join the Slack workspace for this course. Make sure your workspace name is the name to address you by</li> </a>
- 		<li> <a href = ""> Join our workspace on openProcessing via this invitation link.</a> This is critical as this is where you will be submitting your homework.</li>
+ 		<li> <a href = "https://openprocessing.org/join/D0F3B9"> Join our workspace on openProcessing via this invitation link.</a> This is critical as this is where you will be submitting your homework.</li>
  		<li>Get a <a href = https://github.com/>Github account</a></li>
 		<li>Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).</li>
  		<li>Install <a href = https://processing.org/download/>Processing</a>. </li> <li>Go through the examples in Processing and explore them.</li>

@@ -4,7 +4,7 @@ Creative Coding Syllabus &amp; Class repo
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack Workspace](https://creativecodin-bea1516.slack.com) (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
-* [openProcessing Workspace (where homework is submitted)]() You must first join openProcessing. See the email I sent of the invite in week 1's weekly breakout.
+* [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/83085) You must first join openProcessing. See the email I sent of the invite in week 1's weekly breakout.
 * **Office Hours: Monday (& sometimes Wednesday) 4-5pm EST, Message me in Slack to give me a heads up. First Come, First Serve. Otherwise, I can meet briefly before class. Please message me in advance to set up.**
 * **Creative Coding GA is: TBA**
 
@@ -160,6 +160,10 @@ This book is available for purchase in the NYU bookstore. You can check the stat
 
 • [Slack](https://creativecodin-bea1516.slack.com) 
 
+• [OpenProcessing Invite](https://openprocessing.org/join/D0F3B9)
+
+• [OpenProcessing Site](https://openprocessing.org/class/83085)
+
 • [Resources](Resources.md)
 
 • [P5.js WebEditor](https://editor.p5js.org/)
@@ -188,7 +192,7 @@ A typical week will aim for the following schedule:
 
 • **Pair programming** is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due at the end of the class period and presented to class. It is not to be completed individually, nor asynchronously with your partner. On occasions the deadline will be at another point. Yet, the exercise is meant to be worked on together - on one laptop, in one program. If you are asynchronous that day, I will pair you up with another asynchronous student, if there is one. You will have one week to complete the assignment, meaning you have 6 days to find a congruent time to be synchronous for 30 minutes to complete the exercise. The professor will pair you up via Slack direct messages. 
 
-• **Homework projects will be turned in via [OpenProcessing.org]()**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
+• **Homework projects will be turned in via [OpenProcessing.org](https://openprocessing.org/class/83085)**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
 • **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-12 hours outside of class to succeed.
 
 My personal favorite time management tools are [KanBan](https://leankit.com/learn/kanban/what-is-kanban/), [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) (also available in undated), the [Pomodoro technique](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730), [Self Control](https://selfcontrolapp.com/)  
