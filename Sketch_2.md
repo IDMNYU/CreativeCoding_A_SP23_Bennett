@@ -11,7 +11,7 @@
         
 ##### Step 1:
  
- A. Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 3-5 more times. By the end, you should a clustered arrangement of similar shapes. Now, thing of this cluster of shapes, as one stamp.
+ A. Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 4-8 more times. By the end, you should a clustered arrangement of similar shapes. Now, thing of this cluster of shapes, as one stamp.
 
  B. Apply a variable to these shapes location coordinates, such as "50 + x" "100 + y"
 
