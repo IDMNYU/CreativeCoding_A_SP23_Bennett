@@ -7,7 +7,7 @@
 
 
 #### Step 1, is due before class on Feb 15
-#### Step 2: Feb 20th 18:00 <-- this submission is graded
+#### Step 2: ~~Feb 20th 18:00~~ Wednesday Feb 22 11:00  <-- this submission is graded
         
 ##### Step 1:
  
