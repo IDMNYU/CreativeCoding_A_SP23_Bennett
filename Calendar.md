@@ -7,8 +7,8 @@
 <table>
 <tr>
 	<th width="4%">Wk</th> 
-	<th width="48%">Monday </th> 
-	<th width="48%">Wednesday</th> 
+	<th width="48%"> <strike>Monday</strike>Wednesday </th> 
+	<th width="48%"><strike>Wednesday</strike>Monday</th> 
 </tr>
 <tr>
 	<td valign="top">1</td>
