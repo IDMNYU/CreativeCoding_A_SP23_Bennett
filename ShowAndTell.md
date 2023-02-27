@@ -32,37 +32,37 @@ Get familiar with your display preferences IN. ADVANCE. I'm. Not. Joking.!! I'm 
 
 #### Show and Tell People
 
-Week 4A - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Phil
+Week 4A - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Lilyanne
 
-Week 4B -  Casey Reas, Zachary Lieberman ---> 
+Week 5B -  Casey Reas, Zachary Lieberman ---> Dominique
 
-Week 5A - United Visual Artists, American Artist ---> 
+Week 6A - United Visual Artists, American Artist ---> Asaf
 
-Week 5B - Seb Lee-Delisle & Kyle McDonald ---> 
+Week 6B - Seb Lee-Delisle & Kyle McDonald ---> Checo
 
-Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> 
+Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Anson
 
-Week 6B -  Lee Blalock, Soso Limited ---> 
+Week 6B -  Lee Blalock, Soso Limited ---> Sam
 
-Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
+Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Sania
 
-Week 7A - Marius Watz & Memo Akten ---> 
+Week 7A - Marius Watz & Memo Akten ---> Bhavya
 
 Week 8B - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy)---> 
 
-Week 9A - Jurg Lehni, Red Paper Heart   ---> 
+Week 9A - Jurg Lehni, Red Paper Heart   ---> Jeffrey
 
-Week 9B - Amit Pitaru, rAndom International  ---> 
+Week 9B - Amit Pitaru, rAndom International  ---> Ellen
 
-Week 10A - Eno Henze, Cedric Kiefer (onformative)---> 
+Week 10A - Eno Henze, Cedric Kiefer (onformative)---> Hawon
 
-Week 10A - Diato Manabe, Leo Villareal ---> 
+Week 10A - Diato Manabe, Leo Villareal ---> Eftalya
 
-Week 11B - Karolina Sobecka, Moment Factory ---> 
+Week 11B - Karolina Sobecka, Moment Factory ---> Violet
 
-Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> 
+Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> Daniel
 
-Week 12A - Bomani Oseni McClendon, Lauren McCarthy  ---> 
+Week 12A - Bomani Oseni McClendon, Lauren McCarthy  ---> Regina
 
 Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> 
 
