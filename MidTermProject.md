@@ -4,8 +4,8 @@
 
 ## MidTerm Project  - The Unexpected Machine: Performance Adjective
 
-**Due  March 21st & March 23 In class critiques** <br>
-**Final Submissions Due April 4th midnight to openProcessing **
+**Due  March 22st & March 24 In class critiques** <br>
+**Final Submissions Due April 3th midnight to openProcessing **
 
 **20% of your final grade**
 
