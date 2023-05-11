@@ -6,9 +6,9 @@
 
 ## Dates: 
 
-### Working Prototype Due: Dec 5th - feedback 
+### Working Prototype Due: May 1st - feedback 
 ### May 3rd May 8th in class presentations
-### Alpha Version Due: May 11th 14:00 (sharp) via openProcessing && your github repo for the project 
+### Alpha Version Due: <strike> May 11th 14:00 (sharp) <strike>  May 13th 16:00 EST via openProcessing && your github repo for the project 
 
 **Working Prototype:** All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality. Use this deadline to conquer topics that you are struggling with.
 
